@@ -2,7 +2,6 @@
 
 ![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/a5f446cd-17e0-4f84-9cc4-baae03acd970)
 
-<img width="457" alt="image" src="https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/f83864f1-bb17-4a8c-9c4b-5dca43a9b2c9">
 
 ## Overview
 
