@@ -1,6 +1,11 @@
 # IUIGA Singapore Case Study Analysis
 
+![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/a5f446cd-17e0-4f84-9cc4-baae03acd970)
+
+<img width="457" alt="image" src="https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/f83864f1-bb17-4a8c-9c4b-5dca43a9b2c9">
+
 ## Overview
+
 This case study focuses on analyzing customer purchase behaviors, device usage, and purchase frequencies using the IUIGA dataset. By examining transaction data, we aim to uncover patterns that could inform business decisions, enhance customer engagement strategies, and optimize the user experience across different platforms.
 
 ## Dataset Description
