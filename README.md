@@ -1,4 +1,31 @@
 # IUIGA Singapore Case Study Analysis
+TL;DR:
+- **Objective:** Analyze IUIGA dataset for customer behaviors.
+  
+- **Data:** 103,315 transactions with customer IDs, dates, channels, basket sizes, and devices.
+
+- **Device Usage:**
+  - Shift to mobile post-November 2018.
+  - Seasonal trends show higher mobile engagement during promotions.
+
+- **Purchase Frequency:**
+  - 26.7% customer return rate.
+  - Significant difference in average purchases between online and offline.
+
+- **Hypotheses Testing:**
+  - Significant differences in daily online purchases between PC and mobile users.
+  - Mobile engagement increased post-opening of pop-up store.
+
+- **Recommendations:**
+  - Optimize Mobile Experience.
+  - Tailor promotions for mobile users.
+  - Implement loyalty programs to reduce churn.
+
+- **Tools Used:**
+  - Python: Pandas, Matplotlib, SciPy.
+  - Google Colab Notebooks.
+
+- **Conclusion:** Insights for IUIGA to enhance marketing and technology for growth and customer satisfaction.
 
 ![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/a5f446cd-17e0-4f84-9cc4-baae03acd970)
 
@@ -11,6 +38,10 @@ This case study focuses on analyzing customer purchase behaviors, device usage, 
 The dataset contains transaction records for 103,315 entries, detailing customer IDs, transaction dates, purchase channels, basket sizes (both in units and dollars), and devices used for the transactions. The data spans various purchase channels, including online and pop-up/offline stores.
 
 ## Analysis Summary
+###EDA
+![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/55bff89b-39e4-4380-80fa-dbb60509e049)
+![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/2aa5112a-e205-42fe-8e00-90bd1397da37)
+
 
 ### Device Usage Analysis
 - **Objective**: To understand the daily device usage (PC vs. Mobile) among online customers.
