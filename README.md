@@ -63,7 +63,7 @@ The dataset contains transaction records for 103,315 entries, detailing customer
 - **Customer Retention**: With a high churn rate observed, implementing loyalty programs or personalized marketing strategies could encourage repeat purchases and reduce churn.
 
 ## Tools and Technologies Used
-- Python libraries: **Pandas** for data manipulation, **Matplotlib** and **Power BI**for visualization, and **SciPy** for statistical testing.
+- Python libraries: **Pandas** for data manipulation, **Matplotlib** and **Power BI** for visualization, and **SciPy** for statistical testing.
 - Google Colab Notebooks for interactive analysis and documentation.
 
 ## Conclusion
