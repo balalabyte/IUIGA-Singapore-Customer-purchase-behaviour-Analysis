@@ -38,7 +38,7 @@ This case study focuses on analyzing customer purchase behaviors, device usage, 
 The dataset contains transaction records for 103,315 entries, detailing customer IDs, transaction dates, purchase channels, basket sizes (both in units and dollars), and devices used for the transactions. The data spans various purchase channels, including online and pop-up/offline stores.
 
 ## Analysis Summary
-###EDA
+### EDA
 ![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/55bff89b-39e4-4380-80fa-dbb60509e049)
 ![image](https://github.com/balalabyte/IUIGA-Singapore-Customer-purchase-behaviour-Analysis/assets/60688697/2aa5112a-e205-42fe-8e00-90bd1397da37)
 
@@ -63,7 +63,7 @@ The dataset contains transaction records for 103,315 entries, detailing customer
 - **Customer Retention**: With a high churn rate observed, implementing loyalty programs or personalized marketing strategies could encourage repeat purchases and reduce churn.
 
 ## Tools and Technologies Used
-- Python libraries: **Pandas** for data manipulation, **Matplotlib** for visualization, and **SciPy** for statistical testing.
+- Python libraries: **Pandas** for data manipulation, **Matplotlib** and **Power BI**for visualization, and **SciPy** for statistical testing.
 - Google Colab Notebooks for interactive analysis and documentation.
 
 ## Conclusion
